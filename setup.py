@@ -11,7 +11,7 @@ setup(name="cfxgb",
       packages=["cfxgb", "cfxgb.lib","cfxgb.lib.cascade","cfxgb.lib.estimators","cfxgb.lib.utils"],
       package_dir={"": "src"},
       install_requires=[
-            "numpy==1.20.1",
+            "numpy==1.22.0",
             "pandas==1.2.3",
             "joblib==1.0.1",
             "psutil==5.8.0",
