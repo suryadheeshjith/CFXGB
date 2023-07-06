@@ -17,7 +17,7 @@ setup(name="cfxgb",
             "psutil==5.8.0",
             "scikit-learn==0.24.1",
             "imblearn==0.0",
-            "scipy==1.6.1"
+            "scipy==1.10.0"
             ],
         extras_require={
             "testing": ["pytest-cov"]
